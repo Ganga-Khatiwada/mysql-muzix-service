@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-@Primary
+
 @Service
 public class MusicServiceImpl1 implements MusicService{
 
